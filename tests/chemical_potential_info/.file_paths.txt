@@ -1,0 +1,6 @@
+main = /Users/andrewtimmins/Documents/CMU/Research/QE_ASE/dsProject/CPLAP_with_BEEF/tests/chemical_potential_info
+input_on_deck = /Users/andrewtimmins/Documents/CMU/Research/QE_ASE/dsProject/CPLAP_with_BEEF/tests/chemical_potential_info/input_on_deck
+input_stored = /Users/andrewtimmins/Documents/CMU/Research/QE_ASE/dsProject/CPLAP_with_BEEF/tests/chemical_potential_info/input_stored
+results_stored = /Users/andrewtimmins/Documents/CMU/Research/QE_ASE/dsProject/CPLAP_with_BEEF/tests/chemical_potential_info/results_stored
+grid_exact = /Users/andrewtimmins/Documents/CMU/Research/QE_ASE/dsProject/CPLAP_with_BEEF/tests/chemical_potential_info/grid_exact
+grid_total = /Users/andrewtimmins/Documents/CMU/Research/QE_ASE/dsProject/CPLAP_with_BEEF/tests/chemical_potential_info/grid_total

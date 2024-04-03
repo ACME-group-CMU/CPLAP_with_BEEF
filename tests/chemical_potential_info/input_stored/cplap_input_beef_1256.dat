@@ -1,0 +1,17 @@
+#Number of species in primary phase
+3
+#Primary phase relationship
+1 Ba 1 Sn 3 O -13.23711697569297
+#Dependent variable or 'none
+O
+#Number of competing phases
+4
+#number of species in competing phases followed by relationship
+2
+1 Ba 1 O -5.9577551147913255
+2
+1 Sn 2 O -6.216145654103002
+3
+2 Ba 1 Sn 4 O -19.683674951418197
+2
+1 Sn 1 O -3.3138446862581077
